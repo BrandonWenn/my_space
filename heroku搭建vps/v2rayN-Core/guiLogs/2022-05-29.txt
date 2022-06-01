@@ -1,0 +1,59 @@
+2022-05-29 18:28:54,530 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.23 - 2022/05/06 | C:\Users\77006\Desktop\v2rayN-Core\v2rayN.exe
+2022-05-29 18:28:58,100 [1] DEBUG Log2 - 未能找到文件“C:\Users\77006\Desktop\v2rayN-Core\guiNConfig.json”。
+2022-05-29 18:28:58,114 [1] DEBUG Log2 - System.IO.FileNotFoundException: 未能找到文件“C:\Users\77006\Desktop\v2rayN-Core\guiNConfig.json”。
+文件名:“C:\Users\77006\Desktop\v2rayN-Core\guiNConfig.json”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path)
+   在 v2rayN.Utils.LoadResource(String res)
+2022-05-29 18:29:59,807 [4] INFO  Log1 - UpdateTaskRun
+2022-05-29 18:37:13,357 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2022-05-29 18:37:13,360 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2022-05-29 18:40:05,217 [1] INFO  Log1 - MyAppExit Begin
+2022-05-29 18:40:05,670 [1] INFO  Log1 - MyAppExit End
+2022-05-29 18:53:21,767 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.23 - 2022/05/06 | C:\Users\77006\Desktop\v2rayN-Core\v2rayN.exe
+2022-05-29 18:54:22,925 [4] INFO  Log1 - UpdateTaskRun
+2022-05-29 18:55:16,127 [1] INFO  Log1 - MyAppExit Begin
+2022-05-29 18:55:16,557 [1] INFO  Log1 - MyAppExit End
+2022-05-29 18:56:05,378 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.23 - 2022/05/06 | C:\Users\77006\Desktop\v2rayN-Core\v2rayN.exe
+2022-05-29 18:57:06,425 [4] INFO  Log1 - UpdateTaskRun
+2022-05-29 18:57:22,785 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2022-05-29 18:57:22,788 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2022-05-29 18:58:24,258 [1] INFO  Log1 - MyAppExit Begin
+2022-05-29 18:58:24,605 [1] INFO  Log1 - MyAppExit End
+2022-05-29 18:59:20,466 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.23 - 2022/05/06 | C:\Users\77006\Desktop\v2rayN-Core\v2rayN.exe
+2022-05-29 18:59:39,477 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2022-05-29 18:59:39,481 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2022-05-29 19:00:21,495 [4] INFO  Log1 - UpdateTaskRun
+2022-05-29 19:02:44,394 [1] INFO  Log1 - MyAppExit Begin
+2022-05-29 19:02:44,532 [1] INFO  Log1 - MyAppExit End
+2022-05-29 19:03:48,468 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.23 - 2022/05/06 | C:\Users\77006\Desktop\v2rayN-Core\v2rayN.exe
+2022-05-29 19:04:49,491 [4] INFO  Log1 - UpdateTaskRun
+2022-05-29 19:04:57,129 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2022-05-29 19:04:57,133 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2022-05-29 19:12:57,354 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2022-05-29 19:12:57,355 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2022-05-29 19:15:44,375 [1] INFO  Log1 - MyAppExit Begin
+2022-05-29 19:15:44,523 [1] INFO  Log1 - MyAppExit End

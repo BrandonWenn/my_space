@@ -1,0 +1,35 @@
+
+H:\PRAC_10.20\12306-master
+
+服务器密码：root Wen20030309
+外网面板地址: http://47.108.221.237:8888/shoeshineboys
+内网面板地址: http://172.24.118.104:8888/5cafadda
+username: sowwtynx
+password: b8b8f250
+数据库账号资料
+数据库名：sql47_108_221_2
+用户：sql47_108_221_2
+密码：3QnNpTFAFf
+访问站点：http://47.108.221.237/index.php
+
+可乐云：
+https://xn--fjqzfu8n.xyz/#/login
+-----------------------------------------
+OGFXLEEMDINKZXVB  airmail
+nghgmbbjajsvedbf 1656830314
+
+
+https://z1.m1907.cn/?jx=
+
+set http_proxy=http://127.0.0.1:10890
+set https_proxy=http://127.0.0.1:10890
+set http_proxy=http://127.0.0.1:7890
+set https_proxy=http://127.0.0.1:7890
+export hostip=$(cat /etc/resolv.conf |grep -oP '(?<=nameserver\ ).*')
+export https_proxy="http://127.0.0.1:7890"
+export http_proxy="http://127.0.0.1:7890"
+
+
+WIFI:T:WPA;S:360WiFi-301;P:hphhx19920724@;H:false;;
+
+https://raw.fastgit.org/freefq/free/master/v2

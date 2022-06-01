@@ -1,0 +1,17 @@
+{
+    "binance_01" : {
+        "exchange": "binance",
+        "key": "Jv0XnPsqVrOv1856Ggvf2RhzjFUUdtsRucdkklwZnIEPPpkvm7ILRd603xinikCD",
+        "secret": "ym88SYWmj2O6RWZhxN8ZycpzvIarxEq8OanLJbI2AywoNhodQExKinWr3h3iCDg7"
+    },
+    "binance_02" : {
+        "exchange": "binance",
+        "key": "L3AY42BRnmG0hfW5c7GiXXnnFEuGgXnApa2ro0nbOOysfIbBZ1c3rFzYUyQDNBmo",
+        "secret": "BTSLZ8y4tBBv2pBjYFxY9wACJmtw73XrNc1aCqoFUi04xnA1F3IrJNwCoFeX40cO"
+    },
+    "bybit_01" : {
+        "exchange": "bybit",
+        "key": "key",
+        "secret": "secret"
+    }
+}
